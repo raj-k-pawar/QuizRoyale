@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481064272681",
+    "project_id": "quizroyale-25bce",
+    "storage_bucket": "quizroyale-25bce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481064272681:android:7c90d866f86dc178a42d38",
+        "android_client_info": {
+          "package_name": "com.quizroyale.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3QLa5myhpznW5bMuL3wnTajk2SdBWFE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
